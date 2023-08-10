@@ -1,11 +1,11 @@
 <h1>👋🏻 Olá! Que bom ver você por aqui.</h1>
 <p>🎉 Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.</p> 
 
-<h2>Sobre mim: </h2>
+<h2>👾 Sobre mim: </h2>
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p allign="left">🌎 Eu me chamo Niwan Bernardo, tenho 21 anos e sou um Analista de Dados e Desenvolvedor de Software do <b>Brasil</b> e moro em <b>São Paulo, SP</b>.</p>
 <p allign="left">📚 Atualmente, estudo <b>Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em alguns outros cursos profissionalizantes. </p>
-<p allign="left">Entrei na área de programação para trabalhar com dois assuntos que eu gosto: Matemática e o Desenvolvimento. Através da Matemática, consigo pensar em soluções para resolver algum problema e, com a Programação, consigo criar as ferramentas necessárias para tomar decisões assertivas e com maiores chances de sucesso.</p>
+<p allign="left">🚀 Entrei na área de programação para trabalhar com dois assuntos que eu gosto: Matemática e o Desenvolvimento. Através da Matemática, consigo pensar em soluções para resolver algum problema e, com a Programação, consigo criar as ferramentas necessárias para tomar decisões assertivas e com maiores chances de sucesso.</p>
 
 <h2>💻 Habilidades: </h2>
 <p>
@@ -24,7 +24,7 @@
 <img align="center" alt="next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-<p>💼 Convido você a acessar o meu site de portfólio, pois você poderá encontrar alguns serviços incríveis e personalizados que posso oferecer para você.</p>
+<p>💼 Gostaria de convidar você a acessar meu site de portfólio, pois você terá uma experiência única e poderá encontrar alguns serviços personalizados que posso oferecer para você.</p>
 
 <h2>💡 Principais projetos:</h2>
 <ul>
@@ -33,7 +33,7 @@
     <li>🔍 Projeto 3</li>
 </ul>
 
-<h2>📜 Certificações: </h2>
+<h2>🎓 Certificações: </h2>
 <ul>
     <li>📊 Análise de Dados pelo Google Learning Program;</li>
     <li>👨‍💻 Análise e Desenvolvimento de Sistemas pela FATEC-SP;</li>
