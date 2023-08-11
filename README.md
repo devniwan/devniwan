@@ -56,6 +56,10 @@
 </ul>
 <!-- Fim da seção "Formação" -->
 
+<!--
+<h2>🎵 Música: </h2>
+-->
+
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contato: </h2>
 <p>
