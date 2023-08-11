@@ -3,7 +3,7 @@
 
 <h2>👾 Sobre mim: </h2>
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p allign="left">🌎 Eu me chamo Niwan Bernardo, tenho 21 anos e sou um Analista de Dados e Desenvolvedor de Software do <b>Brasil</b> e moro em <b>São Paulo, SP</b>.</p>
+<p allign="left">🌎 Eu me chamo Niwan Bernardo, tenho 21 anos e sou um <b>Analista de Dados</b> e <b>Desenvolvedor de Software</b> do Brasil e moro em <b>São Paulo, SP</b>.</p>
 <p allign="left">📚 Atualmente, estudo <b>Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em alguns outros cursos profissionalizantes. </p>
 <p allign="left">🚀 Meu objetivo é utilizar meus conhecimentos e habilidades para resolver problemas e contribuir com você através da tecnologia e da matemática.</p>
 
@@ -42,10 +42,10 @@
 
 <h2>🌐 Contato: </h2>
 <p>
-<a href="https://www.linkedin.com/in/niwanbernardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+<a href="https://www.linkedin.com/in/niwanbernardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25> </a>
 <a href="https://api.whatsapp.com/send?phone=5511991359164" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height=25></a>
-<a href="https://www.instagram.com/devniwan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height=25></a>
-<a href="https://github.com/devniwan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height=25 /></a>
+<a href="https://www.instagram.com/devniwan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height=25></a> 
+<a href="https://github.com/devniwan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" height=25 /></a>
 </p>
 
 <br>
