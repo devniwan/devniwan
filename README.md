@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p allign="left">🌎 Eu me chamo Niwan Bernardo, tenho 21 anos e sou um Analista de Dados e Desenvolvedor de Software do <b>Brasil</b> e moro em <b>São Paulo, SP</b>.</p>
 <p allign="left">📚 Atualmente, estudo <b>Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP)</b> e sou bolsista em alguns outros cursos profissionalizantes. </p>
-<p allign="left">🚀 Entrei na área de programação para trabalhar com dois assuntos que eu gosto: Matemática e o Desenvolvimento. Através da Matemática, consigo pensar em soluções para resolver algum problema e, com a Programação, consigo criar as ferramentas necessárias para tomar decisões assertivas e com maiores chances de sucesso.</p>
+<p allign="left">🚀 Meu objetivo é utilizar meus conhecimentos e habilidades para resolver problemas e contribuir com você através da tecnologia e da matemática.</p>
 
 <h2>💻 Habilidades: </h2>
 <p>
