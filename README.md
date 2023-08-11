@@ -33,7 +33,7 @@
     <li>🔍 Projeto 3</li>
 </ul>
 
-<h2>🎓 Certificações: </h2>
+<h2>🎓 Formação: </h2>
 <ul>
     <li>📊 Análise de Dados pelo Google Learning Program;</li>
     <li>👨‍💻 Análise e Desenvolvimento de Sistemas pela FATEC-SP;</li>
