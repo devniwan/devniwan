@@ -39,10 +39,10 @@
         <img src="https://i.postimg.cc/hjWWq9Z7/Dashboard-Financeiro-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
     </a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/" target="_blank">
-        <img src="https://i.postimg.cc/BvvcQyyr/Dashboard-Eletronicos-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" alt="Projeto 2">
+        <img src="https://i.postimg.cc/BvvcQyyr/Dashboard-Eletronicos-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
     </a>
     <a href="https://portfolio-niwanbernardo.vercel.app/" target="_blank">
-        <img src="https://i.postimg.cc/kXdQtDzF/Miniatura-Portfolio-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" alt="Projeto 3">
+        <img src="https://i.postimg.cc/kXdQtDzF/Miniatura-Portfolio-Niwan-Bernardo.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
     </a>
 </ul>
 <!-- Fim da seção "Principais projetos" -->
