@@ -36,7 +36,7 @@
 <h2>💡 Principais projetos: </h2>
 <ul>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/" target="_blank">
-        <img src="https://i.postimg.cc/hjWWq9Z7/Dashboard-Financeiro-Niwan-Bernardo.png" min-width="300px" max-width="300px" width="300px" alt="Projeto 1">
+        <img src="https://i.postimg.cc/hjWWq9Z7/Dashboard-Financeiro-Niwan-Bernardo.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Projeto 1">
     </a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/" target="_blank">
         <img src="https://i.postimg.cc/BvvcQyyr/Dashboard-Eletronicos-Niwan-Bernardo.png" min-width="300px" max-width="300px" width="300px" alt="Projeto 2">
@@ -70,6 +70,7 @@
 </p>
 <!-- Fim da seção "Contato" -->
 
+<br>
 <br>
 
 <!-- Início da seção "Finalização" -->
