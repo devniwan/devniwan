@@ -49,16 +49,25 @@
 
 <!-- Início da seção "Formação" -->
 <h2>🎓 Formação: </h2>
-<ul>
-    <li>📊 Análise de Dados pelo Google Learning Program;</li>
-    <li>👨‍💻 Análise e Desenvolvimento de Sistemas pela FATEC-SP;</li>
-    <li>🌐 Desenvolvimento Web Front-End pelo Governo de SP e ADA Tech.</li>
-</ul>
-<!-- Fim da seção "Formação" -->
+<a href="https://www.spacex.com/"><img align="left" height="94px" width="94px" alt="Google" src="https://th.bing.com/th/id/OIP.BpetYYjpOGivwElwQc25agHaHa?pid=ImgDet&rs=1"/></a>
+<b>Análise de Dados</b><br>
+<a href="https://www.spacex.com/"><b>Google</b></a> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
+Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/">Perfomance Financeira</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/">Perfomance de Vendas</a><br><br>
 
-<!--
-<h2>🎵 Música: </h2>
--->
+<a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
+<b>Desenvolvimento WEB Front-End</b><br>
+<a href="https://ada.tech/"><b>ADA Tech</b></a> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
+Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
+
+<a href="http://www.fatecsp.br/"><img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.9a4dbbbc2afdabc5363b05a7208f422b?rik=dcR1PkzpbpdNUw&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2015%2f08%2fGoverno-Sao-Paulo-Logo.jpg&ehk=96aJe%2b4sVUuRsE%2fRAuwcCryaiMjVsuCknoBQppaiMpM%3d&risl=&pid=ImgRaw&r=0"/></a>
+<b>Análise e Desenvolvimento de Sistemas</b><br>
+<a href="http://www.fatecsp.br/"><b>FATEC-SP</b></a> • Curso Superior de Tecnologia (CST)<br>
+Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
+Projetos em destaque: <br><br>
+<p>Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbernardo/">LinkedIn</a></p>
+<!-- Fim da seção "Formação" -->
 
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contato: </h2>
